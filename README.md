@@ -10,7 +10,7 @@
 
 # ProjectEuler_problem0002
 
-## Problem 1: Multiples of 3 and 5
+## Problem 2: Even Fibonacci Numbers
 
 **The Problem:** By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
