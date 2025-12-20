@@ -18,6 +18,18 @@
 
 **Logic:** sum = sum + (even fibonacci number whose value doesn't exceed 4 million)
 
+## Problem 3: Largest Prime Factor
+
+**The Problem:** What is the largest prime factor of the number 600851475143
+
+**The Strategy:** Continuously divide the number by the smallest possible factor starting from 2, removing each factor as it appears, until the remaining number itself is the largest prime factor.
+
+**Logic:** Keep checking for numbers starting from 2, that can divide the number and do that until i^2 becomes greater than the number
+
+
+
+
+
 
 
 
